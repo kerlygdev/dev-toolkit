@@ -1,0 +1,1 @@
+It's a tool for beginners devs to practice programming and help on learning!
